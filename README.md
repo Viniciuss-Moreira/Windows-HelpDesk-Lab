@@ -13,7 +13,12 @@ Este repositório contém uma coleção de scripts, documentos e templates para 
 - Simular cenários reais de suporte técnico (PC lento, impressora não imprime, senha expirada, conta bloqueada, DNS falhando).
 - Aplicar políticas de segurança e GPOs em estações de trabalho e servidores.
 - Documentar procedimentos, tickets e padrões para portfólio ou estudo.
-- 
+  
+---
+## 🧰 Tecnologias
+
+- **PowerShell Scripts (.ps1)**
+  
 ---
 
 ## 🛠️ Scripts Principais
