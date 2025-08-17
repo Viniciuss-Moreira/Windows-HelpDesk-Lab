@@ -1,6 +1,6 @@
 # Active Directory Lab
 
-🔧 **Laboratório prático de Active Directory para profissionais de TI e estudantes**
+🔧 **Laboratório prático de Active Directory e Windows Server para Suporte Técnico**
 
 Este repositório contém uma coleção de scripts, documentos e templates para criar, gerenciar e automatizar tarefas em um ambiente Active Directory. Ideal para aprender administração de Windows Server, suporte técnico corporativo, automação e boas práticas de segurança.
 
@@ -96,7 +96,7 @@ Este repositório contém uma coleção de scripts, documentos e templates para 
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/active-directory-lab.git
+git clone https://github.com/Viniciuss-Moreira/active-directory-lab.git
 cd active-directory-lab
 ```
 
@@ -117,10 +117,3 @@ cd active-directory-lab
 
 - Pull requests são bem-vindos.
 - Sugestões de scripts adicionais, novos templates ou melhorias de GPOs podem ser adicionadas.
-
----
-
-## 📚 Licença
-
-Licenciado sob MIT License. Consulte [LICENSE](LICENSE) para mais detalhes.
-
