@@ -1,0 +1,29 @@
+* OU=Company
+
+  * OU=Departments
+
+    * OU=IT
+
+      * Users
+      * Computers
+    * OU=Finance
+
+      * Users
+      * Computers
+    * OU=HR
+
+      * Users
+      * Computers
+    * OU=Marketing
+
+      * Users
+      * Computers
+    * OU=Security
+
+      * Users
+      * Computers
+  * OU=Groups
+
+    * Security Groups
+    * Distribution Groups
+  * OU=ServiceAccounts

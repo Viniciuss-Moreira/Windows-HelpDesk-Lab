@@ -1,0 +1,6 @@
+UserName,FirstName,LastName,Department,Email,Phone,Status
+jdoe,John,Doe,IT,jdoe@empresa.local,1234,Active
+asmith,Alice,Smith,Finance,asmith@empresa.local,2345,Active
+bwayne,Bruce,Wayne,Security,bwayne@empresa.local,3456,Disabled
+ckent,Clark,Kent,Marketing,ckent@empresa.local,4567,Active
+dprince,Diana,Prince,HR,dprince@empresa.local,5678,Active

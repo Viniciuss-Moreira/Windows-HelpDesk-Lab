@@ -1,0 +1,7 @@
+DeviceName,DeviceType,UserName,Department,OS,CPU,RAM,Storage,Status
+WS01,Workstation,jdoe,IT,Windows 10,Intel i5,16GB,512GB SSD,Active
+WS02,Workstation,asmith,Finance,Windows 10,Intel i7,16GB,1TB SSD,Active
+WS03,Workstation,ckent,Marketing,Windows 11,Intel i5,8GB,256GB SSD,Active
+SRV01,Server,,IT,Windows Server 2019,Intel Xeon,32GB,2TB HDD,Active
+PRN01,Printer,,Finance,,N/A,N/A,N/A,Active
+PRN02,Printer,,HR,,N/A,N/A,N/A,Active
