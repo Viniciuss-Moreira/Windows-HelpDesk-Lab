@@ -13,38 +13,7 @@ Este repositório contém uma coleção de scripts, documentos e templates para 
 - Simular cenários reais de suporte técnico (PC lento, impressora não imprime, senha expirada, conta bloqueada, DNS falhando).
 - Aplicar políticas de segurança e GPOs em estações de trabalho e servidores.
 - Documentar procedimentos, tickets e padrões para portfólio ou estudo.
-
----
-
-## 🧰 Estrutura do Repositório
-
-```plaintext
-├── scripts/
-│   ├── AD-Backup-DC.ps1
-│   ├── AD-CreateOU.ps1
-│   ├── AD-CreateUser.ps1
-│   ├── AD-DisableUser.ps1
-│   ├── AD-Query-Logons.ps1
-│   └── AD-ResetUserPassword.ps1
-├── docs/
-│   ├── LAB-AD-SETUP.md
-│   ├── GPO-DisableUSB.md
-│   ├── GPO-MapDrives.md
-│   └── GPO-PasswordPolicy.md
-├── tickets/
-│   ├── ticket_reset_senhas.md
-│   ├── ticket_pc_lento.md
-│   ├── ticket_impressora.md
-│   ├── ticket_dns_falhando.md
-│   └── ticket_conta_bloqueada.md
-├── data/
-│   ├── AD-users-sample.csv
-│   ├── hardware-inventory.csv
-│   └── login-report-sample.csv
-└── templates/
-    └── ticket-template.md
-```
-
+- 
 ---
 
 ## 🛠️ Scripts Principais
